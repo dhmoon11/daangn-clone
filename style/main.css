@@ -8,6 +8,7 @@
 
 a {
   text-decoration: none; /*밑줄 제거*/
+  color:black;
 }
 
 img{
@@ -527,6 +528,8 @@ header .sub-menu .search .chat {
 .keyword-text{
   margin-left: 50px;
   height:47px;
+}
+.kl{
   color:#212124;
 }
 
